@@ -1,5 +1,5 @@
 # Movie-Dataset-Manager
-A comprehensive C++ application for managing, searching, and analyzing movie data independently implemented using custom data structures. This project demonstrates advanced understanding of Data Structures and Algorithms by building core components from scratch.
+A comprehensive C++ application built in my 3rd semester at FAST as a DSA project for managing, searching, and analyzing movie data independently implemented using custom data structures. This project demonstrates advanced understanding of Data Structures and Algorithms by building core components from scratch.
 ## Project Overview
 
 This **Movie Dataset Manager** parses a large dataset of movies (`movie_metadata.csv`) and organizes the information into efficient data structures to allow for fast searching, filtering, and recommendation generation.
